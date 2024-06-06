@@ -13,6 +13,10 @@
     }
   ],
   "require": {
-    "symfony/console": "^5.4"
+    "symfony/console": "^5.4",
+    "ext-curl": "*",
+    "ext-readline": "*",
+    "ext-json": "*",
+    "nesbot/carbon": "^2.72"
   }
 }
